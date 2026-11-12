@@ -20,7 +20,7 @@ A simple desktop expense tracker built with Python and Tkinter. It lets you reco
 
 ```text
 expense_tracker/
-├── Expense_Tracker.py
+├── expense_tracker.py
 └── README.md
 ```
 
